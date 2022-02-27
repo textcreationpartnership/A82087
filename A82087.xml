@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the City of London with instructions from the Court of Common Councell. For the defence of the Parliament and City, against the complotters that are rising, listing, and arming themselves by a bloody confederacy to plunder and massacre the famous city of London. Also a message concerning Prince Charles, read in the House of Lords; from Sir Thomas Dishington. And propositions for vindication of his Majesty, and the honour of the kingdome. May. 27. 1648. Imprimatur, Gilb. Mabbott.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82087</idno>
+            <idno type="STC">Wing D590</idno>
+            <idno type="STC">Thomason E445_2</idno>
+            <idno type="STC">ESTC R204764</idno>
+            <idno type="EEBO-CITATION">99864226</idno>
+            <idno type="PROQUEST">99864226</idno>
+            <idno type="VID">161737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161737)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the City of London with instructions from the Court of Common Councell. For the defence of the Parliament and City, against the complotters that are rising, listing, and arming themselves by a bloody confederacy to plunder and massacre the famous city of London. Also a message concerning Prince Charles, read in the House of Lords; from Sir Thomas Dishington. And propositions for vindication of his Majesty, and the honour of the kingdome. May. 27. 1648. Imprimatur, Gilb. Mabbott.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Dishington, Thomas, Sir.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>London (England) --  Defenses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161737:1" rendition="simple:additions"/>
+            <p>A DECLARATION From the City of LONDON WITH Inſtructions from the Court of Com<g ref="char:EOLhyphen"/>mon Councell.</p>
+            <p>For the defence of the Parliament and City, againſt the Complotters that are Riſing, Liſting, and Arming themſelves by a bloody Confederacy to plunder and maſſacre the famous City of LONDON.</p>
+            <p>ALSO <hi>A Meſſage concerning Prince</hi> Charles, <hi>Read in the Houſe of Lords;</hi> from Sir Thomas Diſhington.</p>
+            <p>And Propoſitions for Vindication of his Ma<g ref="char:EOLhyphen"/>jeſty, and the honour of the Kingdome.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>May. 27.1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Gilb. Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161737:2"/>
+            <pb facs="tcp:161737:2"/>
+            <head>To the Right Honourable the Earle of <hi>Mancheſter,</hi> Speaker of the Houſe of Peeres, <hi>pro tempore.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SAturday laſt, the Mayor of <hi>Dover</hi> hearing that the Prince was at <hi>Sandwich,</hi> ſent an Expreſſe to the Mayor of <hi>Sand<g ref="char:EOLhyphen"/>wich</hi> to know the truth: At foure in the afternoone the Meſſage came backe and (from the Mayor of <hi>Sandwich</hi>) aſſur<g ref="char:EOLhyphen"/>ed him that it was the Prince of <hi>England</hi> as he called him. The Mayor and Jurats of <hi>Dover</hi> were very earneſt with me to go to <hi>Sandwich</hi> to ſee the truth: I told them it could not be, having the day before received Letters from <hi>France,</hi> that the Prince was then ſtill at St. <hi>Jermans,</hi> yet they preſſed me ſo that I went, where when I came, I found him whom they will have to be Prince. A little man, flaxen haire, ſhorter then the Prince by the head, a little bowed in his Shoulders, with hands like to a Butchers boyes hands, with a narrow blew ribband about his neck, without a George. I told the Mayor, that he was an Im<g ref="char:EOLhyphen"/>poſtor, and a villaine: And required the Mayor (as he would be anſwerable to King and Parliament,) that they would make him ſure, and forth comming, for which the Mayor (being ac<g ref="char:EOLhyphen"/>companyed with 20 or 30 Mariners,) came to me, the Mayor himſelf ſeized on my ſword, with their aſſiſtance took it from me, and preſently committed me to the common Gaole. One Mr. <hi>Richards</hi> who knew me, offering to be bound body for bo<g ref="char:EOLhyphen"/>dy for me, could not be heard; ſo to Gaole I went, where I remained till Sunday at night. On Sunday many of <hi>Dover</hi> where I am well knowne, came to <hi>Sandwich</hi> to me, while yet I was in priſon, and likewiſe out of <hi>Cauterbury,</hi> hearing of it
+<pb n="2" facs="tcp:161737:3"/>that morning. They went to the Mayor, and told him what I was, and how I belonged to the Court: And they knew what I had done for the State ſince the beginning of theſe wofull troubles, and moved them to releaſe me while this day. And took my word to be this day againe at <hi>Sandwich:</hi> Then I did give them 13 <hi>Queries</hi> to aſke of the Impoſtor, which I knew, and did know that he knew not, to let them ſee he was but a <hi>Frixon:</hi> Which <hi>Queries</hi> I ſend to your Lordſhips, with the copy of their <hi>Anſwer,</hi> and leave the conſideration to your Lord<g ref="char:EOLhyphen"/>ſhips wiſdome.</p>
+            <p>This day when I was in <hi>Sandwich,</hi> the women, and Mariners would have ſtoned me in the ſtreets, for not confeſſing that Rogue to be the Prince: when we got to our Horſes, they re<g ref="char:EOLhyphen"/>fuſed to let us out at <hi>Dover</hi> gate, and beate us back with Hal<g ref="char:EOLhyphen"/>berts, we were forced to take us to <hi>Canterbury</hi> gate, where with much adoe, we got out.</p>
+            <p>
+               <hi>My Lord,</hi> I doe not write this at ſo much length to trouble your Lordſhip for any particular that may concern my ſelfe, as that you may know the truth; and have a ſpeedy care to cauſe to ſend for this Impoſtor from thence, or elſe doubtleſſe it will make ſome miſerable combuſtion in theſe quarters.</p>
+            <p>
+               <hi>My Lord,</hi> I doubt not but in its time, that your noble houſe of Peeres will doe me juſtice, and right me of the affronts and injuries that I have received, in maintaining the unparalleled blood of our Soveraigne, and the Kingdomes honour in it.</p>
+            <p>This day I did ſhew to the Mayor, and Jurats, ſome Letters that I had from <hi>France,</hi> of the 17 of <hi>May,</hi> that the Prince was then ſtill at St. <hi>Jermans;</hi> But it could not prevaile with the <hi>Sandwichers:</hi> Hoping that your Lordſhips will take in good part the zealous affections to ſerve this Kingdome: And in it to ſhew my ſelf,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your moſt humble and affectionate ſervant, <hi>Thomas Diſhington.</hi>
+               </signed>
+               <dateline>Dov<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <date>22 May. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account_of_proceedings">
+            <pb n="3" facs="tcp:161737:3"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_queries">
+                        <opener>
+                           <dateline>
+                              <date>May 22. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <list>
+                           <head>The Queries of Sir <hi>Thomas Diſhington,</hi> delivered to the Mayor of <hi>Sandwich</hi> to bee propounded to the Impoſtor that calls him<g ref="char:EOLhyphen"/>ſelfe Prince <hi>Charles.</hi>
+                           </head>
+                           <item>1 WHether ever he ſaw this ancient Gentlemen, when, where, and what his name?</item>
+                           <item>2. When, where and what you laſt ſpake with him, and what the laſt diſ<g ref="char:EOLhyphen"/>courſes were betwixt you?</item>
+                           <item>3. Whether ever he received any favour from you, where, when and what it was?</item>
+                           <item>4. What was the form of your and his laſt parting?</item>
+                           <item>5. What Lords you left, behind you?</item>
+                           <item>6. What are the names of your bed<g ref="char:EOLhyphen"/>chamber?</item>
+                           <item>7. What are the names of your querries?</item>
+                           <item>8. What are the names of your footemen.</item>
+                           <item>9. What are the names of the grooms of four ſtable.</item>
+                           <item>10. What are the names of them that keep your Armes?</item>
+                           <item>11. What were your laſt acti<g ref="char:EOLhyphen"/>ons at the Court of <hi>France?</hi>
+                           </item>
+                           <item>12. When you were a hunting where did you uſe to eate?</item>
+                           <item>13. Who is the maſter of your Hounds.</item>
+                        </list>
+                        <closer>
+                           <dateline>Sandwich <date>May 22. 1648</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>It was humbly deſired by the Mayor and Jurats of <hi>Sandwich,</hi> that the Gentleman which doth now declare himſelfe to bee Prince <hi>Charles</hi> (for the clearing of all doubts and ſcruples) would returne his Anſwer: To which queries bee did abſolutely refuſe to give any Anſwer, unleſſe it was to the fift query. To which hee anſwered, that be left the Lord <hi>Hopton,</hi> but refuſed to name any other, or to give further anſwer to any of the ſaid queries.</p>
+         </div>
+         <div type="judicial_declaration">
+            <head>A Declaration from the Court of Com<g ref="char:EOLhyphen"/>mon Councell of the City of <hi>London.</hi>
+            </head>
+            <p>FOraſmuch as to the Court of Common-councel of the City of <hi>London</hi> this day aſſembled, as well upon the in<g ref="char:EOLhyphen"/>formation of the Committee for the <hi>Militia</hi> of the ſaid
+<pb n="4" facs="tcp:161737:4"/>City, upon examinations of divers perſons brought before them, openly read in the ſaid Court, (as otherwiſe) it did plainly and evidently appeare, that the Parliament and Ci<g ref="char:EOLhyphen"/>ty is in great and imminent danger by a deſperate Plot and Deſigne, intended and carried on by evill diſpoſed perſons againſt the ſame, in a ſecret and under-hand Liſting of Ap<g ref="char:EOLhyphen"/>prentices and other perſons within the ſaid City, and Li<g ref="char:EOLhyphen"/>berties thereof, under Oath of a Covenant and Secreſie; A copy of which Oath and Covenant (being found in the hand of ſome the Actors) was there alſo openly read: The which perſons ſo Liſted (as was expreſſed in the Exa<g ref="char:EOLhyphen"/>minations) were many Thouſands, deluded and drawn in under ſpecious pretences, and were to be under the com<g ref="char:EOLhyphen"/>mand of ſeverall perſons, who have been Commanders and actors in the Kings Army againſt the Parliament; with an intent to joyn with ſeverall diſaffected perſons in ſeverall Counties near this City, who are by the ſaid Plotters ex<g ref="char:EOLhyphen"/>pected ſuddenly to approach in great multitudes, and to ſeize the Bridge and Tower of <hi>London,</hi> and thereby to make the City their owne, and to worke their wills thereupon: And to that purpoſe doe buy up many pocket Piſtols, and Daggers, and other Armes and Ammunition for Horſe and Foot. And at the meeting of divers Iriſh Papiſts, ſeverall Daggers were laid upon the Altar, and by the Prieſt deman<g ref="char:EOLhyphen"/>ded if they were ſharpe, and by him were ſprinkled with holy Water; with an intimation, That many others would be ready for the ſame purpoſe. All which, and many other the like dangerous Paſſages (made knowne unto ſaid Common-councell) do threaten the like maſſacre as was in <hi>Ireland,</hi> and the utter ruine and deſtruction of the Parlia<g ref="char:EOLhyphen"/>ment and City, if not timely and ſpeedily prevented: And to the intent that the Inhabitants of this City may have knowledge of the dangers, they are in, and be more ſenſible thereof, then yet they are; And that my ſelfe, the Alder<g ref="char:EOLhyphen"/>men, and Common-councell-men may diſcharge our re<g ref="char:EOLhyphen"/>ſpective duties herein; and every one in their ſeverall places and conditions may adde their endeavours for the preven<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:161737:4"/>of the ſaid wicked Deſigne: Theſe are by the direction of the ſaid Court of Common-Councell to will and require you, That preſently upon ſight hereof, you cauſe the Deputy and Common-councell-men of your Ward, with the Conſtables thereof, forthwith to repaire into their ſeverall Precincts, and make knowne the Con<g ref="char:EOLhyphen"/>tents hereof unto the ſeverall Inhabitants within the ſame; And to deſire them to ſuffer their Sonnes, Servants, and o<g ref="char:EOLhyphen"/>ther perſons (fit to beare Armes) not Liſted in the Trained Bands, to be Liſted in the Auxiliaries, under ſuch faithfull and honeſt Commanders, as are and ſhall be appointed for that purpoſe by the ſaid Committee for the <hi>Militia,</hi> accor<g ref="char:EOLhyphen"/>ding to their late Warrant, and to be in a readineſſe for the defence of themſelves, the parl. and the City, againſt all Tu<g ref="char:EOLhyphen"/>mults, Invaſions, and Inſurrections that may happen with<g ref="char:EOLhyphen"/>in, or againſt the ſame: And for that purpoſe, to follow ſuch Directions as by the ſaid Committee, and their ſeveral Commanders ſhall be given and required; with this inti<g ref="char:EOLhyphen"/>mation, That every perſon that ſhall not willingly further the ſaid Service, will thereby give juſt occaſion of ſuſpition to be engaged in the ſaid horrid Deſigne: And that you certifie unto Me, or ſome other of the Juſtices of the Peace, or Committee of the <hi>Militia,</hi> the Names of ſuch perſons as ſhall either oppoſe, or not act in the furthering of the ſaid Service.</p>
+            <p>And that you doe cauſe a ſtrict charge and command to be given to every Inhabitant within your Ward, That they doe carefully examine all their Sons and Servants, or any other under their command, whether themſelves, or any o<g ref="char:EOLhyphen"/>thers (to their knowledge) are within the ſaid Deſign and Plot, Covenant, Liſting, and Oath of Secreſie; or what they know or have heard concerning the ſame: and do make diligent ſearch for any Weapons or Papers that may bee found in the cuſtody of any of them touching the Premi<g ref="char:EOLhyphen"/>ſes. And that what ſhall be herein diſcovered, be certified from time to time either to my Selfe, or ſome of the Ju<g ref="char:EOLhyphen"/>ſtices of the Peace, or unto the ſaid Committee of the Mi<g ref="char:EOLhyphen"/>litia.
+<pb n="6" facs="tcp:161737:5"/>And further, That every Houſholder be command<g ref="char:EOLhyphen"/>ed ſo to order and diſpoſe of their Sonnes Servants, and others under their charge and command, as that they bee not found to be any Actors in the ſaid deſperate Deſigne, nor ſo farre (as ſhall be in their power, by perſwaſion, or otherwiſe) any conſenters thereunto, or concealers there<g ref="char:EOLhyphen"/>of. And that you cauſe diligent ſearch to be made in all Places (whereof you ſhall have notice, or that you have cauſe to ſuſpect) for all ſuch Weapons, and other Ammuni<g ref="char:EOLhyphen"/>tion of War, and perſons that you ſhall find, that may diſ<g ref="char:EOLhyphen"/>cover any ſuch Intention or Deſign, as is before declared: And to ſeiſe the things, and ſecure the perſons, and ſpee<g ref="char:EOLhyphen"/>dily to acquaint Me, the ſaid Juſtices, or the ſaid Commit<g ref="char:EOLhyphen"/>tee of the Milita therewith, that ſuch order therein may be taken, as ſhall be fit. And laſtly, That according to former Precepts, you take ſpeciall care, that your Deputy, and Common-councell-men, and Conſtables do with all diligence take care, and uſe their beſt indeavour, That all perſons within your Ward of the Trained Bands, doe ſpee<g ref="char:EOLhyphen"/>dily upon the beat of the Drum repaire to their Colours: And alſo, That the double Watch and Ward in every Pre<g ref="char:EOLhyphen"/>cinct be carefully obſerved, and duly ſet and continued; and the Gates, Chaines, and Landing-places, maintained and kept from time to time, untill you receive order from Mee to the contrary. And that all other things be done with care, faithfulneſſe, and diligence, that may conduce to the ſafety and preſervation of the Paliament and City; and to the preventing of this preſent dangerous and hor<g ref="char:EOLhyphen"/>rid Plot and Deſign, and other dangers that are threatned and intended againſt the ſame. And hereof fail you not, as you tender the welfare of the Parliament and City, and wil anſwer the contrary at your perill:</p>
+            <closer>
+               <dateline>
+                  <date>This foure twentieth of May. 1648:</date>
+               </dateline>
+               <signed>MICHEL.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
